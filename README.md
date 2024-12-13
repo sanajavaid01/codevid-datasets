@@ -40,7 +40,7 @@ The datasets are provided as Excel sheets located in the `datasets/` folder.
 
    ```bash
    git clone https://github.com/sanajavaid01/codevid-datasets
-   cd dataset-videoqa
+   cd codevid-datasets
    ```
 
 2. Navigate to the `datasets/` folder to access the Excel sheets.
