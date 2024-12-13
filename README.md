@@ -39,7 +39,7 @@ The datasets are provided as Excel sheets located in the `datasets/` folder.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sanajavaid01/Dataset-for-Programming-based-Instructional-Videos-Classification-and-Question-Answering.git
+   git clone https://github.com/sanajavaid01/codevid-datasets
    cd dataset-videoqa
    ```
 
